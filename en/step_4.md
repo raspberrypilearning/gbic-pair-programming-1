@@ -15,4 +15,8 @@ The focus on specific aspects of the task benefits both learners by reducing the
 + the Navigator can take a broader view of the task and how best to solve problems
 + both learners will practice thinking in different ways and will take ownership of the problem that they are solving
 
+### Introducing the Pair Programming roles to your pupils
 
+The Pair Programming approach is different to the type of pair work that your pupils will be used to. It's really important that they understand why they are using this approach and what is expected of them in their different roles. The first lesson that you will teach as part of the project takes the time to introduce Pair Programming and encourages pupils to come up with ground rules for working together. They also practice swapping roles during a programming task and talk about the benefits of Pair Programming on their work. Watch the video below to see some of this lesson in action with a Year 6 class who took part in our pilot project last year.
+
+![PP_video](images/PPvideo.mp4)
