@@ -20,3 +20,9 @@ The focus on specific aspects of the task benefits both learners by reducing the
 The Pair Programming approach is different to the type of pair work that your pupils will be used to. It's really important that they understand why they are using this approach and what is expected of them in their different roles. The first lesson that you will teach as part of the project takes the time to introduce Pair Programming and encourages pupils to come up with ground rules for working together. They also practice swapping roles during a programming task and talk about the benefits of Pair Programming on their work. Watch the video below to see some of this lesson in action with a Year 6 class who took part in our pilot project last year.
 
 ![PP_video](images/PPvideo.mp4)
+
+
+Click the green button (below right) to go to the next step in this session.
+
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/gbic-pair-programming-1).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-pair-programming-training).
