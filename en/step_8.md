@@ -4,8 +4,8 @@ In this session, you have focused on the research background of the Pair Program
  
 In the next session, you will be introduced to the Pair Programming resources, where you can begin to explore the lesson plans, presentation slides, and other class material for Unit 1 – 'Programming Drawing' and Unit 2 – 'Programming Animation'. 
 
-You can access the [next session (Session 2) here](https://projects.raspberrypi.org/en/projects/).
+You can access the [next session (Session 2) here](https://projects.raspberrypi.org/en/projects/gbic-pair-programming-2).
 
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-pair-programming-training).
 
 **Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**
