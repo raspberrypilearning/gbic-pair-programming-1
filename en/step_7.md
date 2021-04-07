@@ -1,6 +1,6 @@
 ## Additional information and guidance
 
-The [Project Guide]() gives you all the information you need to take part in the project and gives you a written outline of all the steps that have been covered in this session. 
+The [Project Guide](https://docs.google.com/document/d/13S8BO0gqWpSAZWcPp9iebbffaxlTK3inbTy3ncxHmL8/edit#) gives you all the information you need to take part in the project and gives you a written outline of all the steps that have been covered in this session. 
 
 A reminder of your next steps:
 + Ensure that you have sent out the information letters regarding data collection to parents/carers before you begin the project
