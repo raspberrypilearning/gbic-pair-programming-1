@@ -1,6 +1,6 @@
 ## Summary of Session 1
 
-In this session, you have focused on the research background of the 'Pair Programming' teaching approach and covered some key practical issues of implementing the project in the classroom. Make sure you fully understand the opt-out process for parents and pupils and the data collection procedures before you move on to the next session.
+In this session, you have focused on the research background of the 'Pair Programming' teaching approach and covered some key practical issues of implementing the project in the classroom. Make sure you fully understand the opt-out process for parents and pupils, and the data collection procedures, before you move on to the next session.
  
 In the next session, you will be introduced to the 'Pair Programming' resources, where you can begin to explore the lesson plans, presentation slides, and other class material for Unit 1 – 'Programming drawing' and Unit 2 – 'Programming animation'. 
 
