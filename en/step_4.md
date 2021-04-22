@@ -8,7 +8,7 @@ Application of the 'Pair Programming' concept is more structured than simply ask
 
 ### The driver and the navigator
 
-In their pairs, pupils take turns being the driver and the navigator. The driver controls the keyboard and mouse and types in the code, while the navigator reads the instructions, supports the driver by watching out for errors in the code, and thinks strategically about next steps and solutions to problems. Pupils should swap roles regularly (every 5 to 10 minutes). This ensures that everyone is contributing equally and actively to the collaborative learning.
+In their pairs, pupils take turns being the driver and the navigator. The driver controls the keyboard and mouse and types in the code, while the navigator reads the instructions, supports the driver by watching out for errors in the code, and thinks strategically about next steps and solutions to problems. Pupils should swap roles regularly (every 5 to 10 minutes), to ensure that everyone is contributing equally and actively to the collaborative learning.
 
 The focus on specific aspects of the task benefits both learners by reducing the task demands:
 + The driver can concentrate on code accuracy, rather than problem solving or deciphering instructions
