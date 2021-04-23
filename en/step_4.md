@@ -4,7 +4,7 @@ Pair Programming is an approach where two people work together to write a progra
 
 Application of the 'Pair Programming' concept is more structured than simply asking two pupils to work together. Pairing pupils without giving guidance as to how you want them to work together can often lead to one, or both, pupils quickly losing focus. One of the clear aims of Pair Programming is to make sure that both pupils are engaged and contributing equally, while also reducing the  demands associated with tackling a coding task independently.
 
-![PP_image](images/PPimage.jpg)
+![Two pupils working together at a computer.](images/PPimage.jpg)
 
 ### The driver and the navigator
 
