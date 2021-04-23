@@ -2,18 +2,18 @@
 
 Pair Programming is an approach where two people work together to write a program or solve a problem while sharing a single computer. It was first developed in the software industry. It soon came to education as the observed benefits became clear.
 
-Application of the 'Pair Programming' concept is more structured than simply asking two learners to work together. Pairing learners without giving guidance as to how you want them to work together can often lead to one, or both, learners quickly losing focus. One of the clear aims of Pair Programming is to make sure that both learners are engaged and contributing equally, while also reducing the  demands associated with tackling a coding task independently.
+Application of the 'Pair Programming' concept is more structured than simply asking two pupils to work together. Pairing pupils without giving guidance as to how you want them to work together can often lead to one, or both, pupils quickly losing focus. One of the clear aims of Pair Programming is to make sure that both pupils are engaged and contributing equally, while also reducing the  demands associated with tackling a coding task independently.
 
 ![PP_image](images/PPimage.jpg)
 
 ### The driver and the navigator
 
-In their pairs, pupils take turns being the driver and the navigator. The driver controls the keyboard and mouse and types in the code, while the navigator reads the instructions, supports the driver by watching out for errors in the code, and thinks strategically about next steps and solutions to problems. Pupils should swap roles regularly (every 5 to 10 minutes), to ensure that everyone is contributing equally and actively to the collaborative learning.
+In their pairs, pupils take turns being the driver and the navigator. The driver controls the keyboard and mouse and types in the code. The navigator reads the instructions, supports the driver by watching out for errors in the code, and thinks strategically about next steps and solutions to problems. Pupils should swap roles regularly (every 5 to 10 minutes), to ensure that everyone is contributing equally and actively to the collaborative learning.
 
-The focus on specific aspects of the task benefits both learners by reducing the task demands:
+The focus on specific aspects of the task benefits both pupils by reducing the task demands:
 + The driver can concentrate on code accuracy, rather than problem solving or deciphering instructions
 + The navigator can take a broader view of the task and how best to solve problems
-+ Both learners practise thinking in different ways and take ownership of the problem that they are solving
++ Both pupils practise thinking in different ways and take ownership of the problem that they are solving
 
 ### Introducing the Pair Programming roles to your pupils
 
