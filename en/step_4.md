@@ -19,13 +19,9 @@ The focus on specific aspects of the task benefits both pupils by reducing the t
 
 The 'Pair Programming' approach is different to the type of pair work that your pupils will be used to. It's really important that they understand why they are using this approach and what is expected of them in their different roles. The first lesson that you will teach as part of the project takes the time to introduce Pair Programming and encourages pupils to come up with ground rules for working together. They also practise swapping roles during a programming task and talk about the benefits of Pair Programming on their work. 
 
---- task ---
+--- task --- Click on the 'Lesson 1' link below to watch a video showing how a teacher introduced Pair Programming to her class and her pupils' responses to the experience. 
 
-Watch the video below to see some of this lesson in action with a Year 6 class who took part in our pilot project last year.
- <video width="600" controls>
-  <source src="images/PPvideo.mp4" type="video/mp4">
-Your browser does not support mp4 video.
-</video> 
+[Lesson 1 - Introducing Pair Programming](https://youtu.be/yEUXh4aoQ6E)
 
 --- /task ---
 
